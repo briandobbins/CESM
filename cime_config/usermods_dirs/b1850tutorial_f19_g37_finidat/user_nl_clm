@@ -1,0 +1,2 @@
+finidat = '/scratch/inputdata/B1850-tutorial/finidat.nc'
+use_init_interp = .false.

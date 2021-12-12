@@ -609,6 +609,7 @@
 
    <entry id="CPL_USER_MODS">
      <values match="last">
+       <value compset="1850_CAM40_CLM50%BGC-CROP_CICE_POP2%ECO_MOSART_CISM2%NOEVOLVE_WW3_BGC%BDRD" grid="a%1.9x2.5_l%1.9x2.5_oi%gx3v7_r%r05_g%gland4_w%ww3a_m%gx3v7">$SRCROOT/cime_config/usermods_dirs/b1850tutorial_f19_g37_finidat</value>
        <value compset="midH_"   >$SRCROOT/cime_config/usermods_dirs/BMH6kcmip6</value>
        <value compset="127ka_"   >$SRCROOT/cime_config/usermods_dirs/BLIG127kcmip6</value>
      </values>
