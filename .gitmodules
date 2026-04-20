@@ -65,7 +65,7 @@
 	path = components/mpasa
 	url = https://github.com/briandobbins/MPAS-ESM
   fxDONOTUSEurl = https://github.com/briandobbins/MPAS-ESM
-  fxtag = mpas-model_v0.1
+  fxtag = cesm_integration
   fxrequired = ToplevelRequired
 
 [submodule "clm"]
