@@ -61,6 +61,13 @@
         fxtag = cam6_4_161
         fxrequired = ToplevelRequired
 
+[submodule "mpasa"]
+	path = components/mpasa
+	url = https://github.com/briandobbins/MPAS-ESM
+  fxDONOTUSEurl = https://github.com/briandobbins/MPAS-ESM
+  fxtag = mpas-model_v0.1
+  fxrequired = ToplevelRequired
+
 [submodule "clm"]
         path = components/clm
         url = https://github.com/ESCOMP/CTSM
